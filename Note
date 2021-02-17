@@ -1,0 +1,26 @@
+npx create-react-app in the frontend folder
+create index.js in backend folder and npm init -y
+
+in the backend we need the following package
+npm i body-parser cors express mongoose nodemon
+
+body-parser helps us to create post request.
+cors for cross origin resource sharing
+express a node framework which help us with routing and a host of other things
+moongoose helps us to create and manage models in our application
+nodemon to help automate watch and build process
+
+dependencies for client side application
+npm i axios momment react-file-base64 redux redux-thunk
+
+axios for making asynchronous calls
+moment for working with date and time
+react-file-base64 for uploading images 
+redux for state management
+redux-thunk for asynchronous actions using redux.
+
+
+
+
+
+
